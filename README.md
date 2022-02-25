@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Junn
+===
+### About me 
+* i'm currently working: recommandation System, NLP, Crawling
