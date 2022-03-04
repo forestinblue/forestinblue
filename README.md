@@ -18,3 +18,4 @@ Junn
 ===
 ### About me 
 * i'm currently working: recommandation System, NLP, Crawling
+* 
