@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Junn
 ===
 ### About me 
-* i'm currently working: Rec_sys, NLP, Crawling
-* Major: Statistic , DataScience
+* I'm currently working: Rec_sys, NLP, Crawling
+* Bachelor Major: Statistic , DataScience
 
 
