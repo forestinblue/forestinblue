@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 Junn
 ===
 ### About me 
-* I'm currently working & : Rec_sys, NLP, Crawling
+* I'm currently working & studying : Rec_sys, NLP, Crawling
 * Bachelor Major: Statistic , DataScience
+* How to reach me: www.ijunsuk9797@gmail.com
 
 ![JunSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestinblue)
 
