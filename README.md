@@ -19,5 +19,6 @@ Junn
 ### About me 
 * I'm currently working & : Rec_sys, NLP, Crawling
 * Bachelor Major: Statistic , DataScience
-
+![JunSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestinblue)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestinblue&layout=compact)](https://github.com/forestinblue/github-readme-stats)
 
