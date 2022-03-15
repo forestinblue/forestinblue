@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 JunSeok
 ===
 ### About me 
-* I'm currently working & studying : Rec_sys, NLP, Crawling
+* I'm currently working & studying : Reccommendation System, NLP, Crawling
 * Bachelor Major: Statistic , DataScience
 * How to reach me: www.ijunsuk9797@gmail.com
 
