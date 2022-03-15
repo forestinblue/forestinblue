@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Junn
+JunSeok
 ===
 ### About me 
 * I'm currently working & studying : Rec_sys, NLP, Crawling
