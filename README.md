@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-JunSeok
-===
+
+
 ### About me 
 * I'm currently working & studying : Recommendation System, NLP, Crawling
 * Bachelor Major: Statistic , DataScience
