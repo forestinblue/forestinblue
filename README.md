@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About me 
-* I'm currently working & studying : Recommendation System, NLP, Data Collecting(Crawling)
+* I'm currently working & studying : Recommendation System, NLP, Data Collecting(Crawler)
 * Bachelor Major: DataScience , Statistic
 * How to reach me: www.ijunsuk9797@gmail.com
 
