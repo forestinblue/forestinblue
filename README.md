@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### About me 
 * I'm currently working & studying : NLP ,Recommendation System
-* Bachelor Major: DataScience , Statistic
+* Bachelor Double Major: DataScience , Statistic
 * How to reach me: www.ijunsuk9797@gmail.com
 
 ![JunSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestinblue)
