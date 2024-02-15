@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About me 
-* I'm currently working & studying : NLP ,Recommendation System
+* I'm currently studying : Deep Learning
 * Bachelor Double Major: DataScience , Statistic
 * How to reach me: www.ijunsuk9797@gmail.com
 
