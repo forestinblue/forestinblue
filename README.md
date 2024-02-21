@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 ### About me 
-* I'm currently studying : Deep Learning
-* Bachelor Double Major: DataScience , Statistic
+* Interest: Deep Learning, Robotics
+* Education: Currently, I am a graduate student at ![the Master Science in AI and Robotics, Chinese University of Hong Kong](https://sds.cuhk.edu.cn/mair)
 * How to reach me: www.ijunsuk9797@gmail.com
+
+### Career
 
 ![JunSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestinblue)
 
