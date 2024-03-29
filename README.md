@@ -21,9 +21,4 @@ Here are some ideas to get you started:
 * Education: Currently, I am a graduate student at the Master Science in AI and Robotics,The Chinese University of Hong Kong
 * How to reach me: www.ijunsuk9797@gmail.com
 
-### Career
-
-![JunSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=forestinblue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forestinblue&layout=compact)](https://github.com/forestinblue/github-readme-stats)
 
