@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About me 
-* Interest: Deep Learning, Robotics
-* Education: Currently, I am a graduate student at the Master Science in AI and Robotics,The Chinese University of Hong Kong-Shenzhen
+* Interest: Deep Learning, Robotics, Computer Vision
 * How to reach me: www.ijunsuk9797@gmail.com
 
 
