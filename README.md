@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### About me 
-* Education: Currently, I am a graduate student at the Master Science in AI and Robotics,The Chinese University of Hong Kong
+* Education: Currently, I am a graduate student at the Master Science in AI and Robotics,The Chinese University of Hong Kong (Located in Shenzhen, China)
 * Interest: Deep Learning, Robotics, Computer Vision
 * How to reach me: www.ijunsuk9797@gmail.com
 
